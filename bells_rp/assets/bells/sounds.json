@@ -1,0 +1,12 @@
+{
+    "custom.bell": {
+        "sounds": [
+            {
+                "name": "bells:custom/bell",
+                "volume": 0.8,
+                "pitch": 1.0
+            }
+        ],
+        "replace": true
+    }
+}

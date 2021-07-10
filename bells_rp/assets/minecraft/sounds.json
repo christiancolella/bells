@@ -1,0 +1,12 @@
+{
+    "block.wooden_trapdoor.open": {
+        "sounds": [
+        ],
+        "replace": true
+    },
+    "block.wooden_trapdoor.close": {
+        "sounds": [
+        ],
+        "replace": true
+    }
+}

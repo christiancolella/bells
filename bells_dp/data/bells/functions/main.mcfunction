@@ -1,0 +1,1 @@
+# summon armor_stand 0.5 63.0 0.5 {ShowArms:1b,Pose:{Head:[0.001f,0.0f,0.0f],RightArm:[0.001f,0.0f,0.0f]},ArmorItems:[{},{},{},{id:"minecraft:bell",Count:1b,tag:{CustomModelData:16}}],HandItems:[{id:"minecraft:bell",Count:1b,tag:{CustomModelData:2}},{}]}
