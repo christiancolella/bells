@@ -15,8 +15,8 @@ predicate = r'\{\s["]predicate["]:(?:(?:\n|.)+?\}){2}'
 
 directory = os.path.dirname(os.path.dirname(__file__)) + "/bell/"
 
-from_scale = 1.2
-to_scale = 2.0
+from_scale = 2.0
+to_scale = 1.2
 n = 25
 
 for i in range(n):

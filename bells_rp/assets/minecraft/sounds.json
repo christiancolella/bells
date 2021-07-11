@@ -1,10 +1,10 @@
 {
-    "block.wooden_trapdoor.open": {
+    "block.fence_gate.open": {
         "sounds": [
         ],
         "replace": true
     },
-    "block.wooden_trapdoor.close": {
+    "block.fence_gate.close": {
         "sounds": [
         ],
         "replace": true

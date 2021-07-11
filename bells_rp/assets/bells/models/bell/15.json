@@ -9,7 +9,7 @@
         "head": {
             "rotation": [ 0, 180, 0 ],
             "translation": [ 0, -6.4, 0 ],
-            "scale": [ 1.68, 1.68, 1.68 ]
+            "scale": [ 1.52, 1.52, 1.52 ]
         },
         "thirdperson_righthand": {
             "rotation": [ 0, 0, 0 ],
