@@ -1,0 +1,31 @@
+{
+    "parent": "minecraft:item/template_spawn_egg",
+    "overrides": [
+        { "predicate": {"custom_model_data": 0}, "model": "minecraft:item/ghast_spawn_egg" },
+        { "predicate": {"custom_model_data": 1}, "model": "bells:item/bell/0" },
+        { "predicate": {"custom_model_data": 2}, "model": "bells:item/bell/1" },
+        { "predicate": {"custom_model_data": 3}, "model": "bells:item/bell/2" },
+        { "predicate": {"custom_model_data": 4}, "model": "bells:item/bell/3" },
+        { "predicate": {"custom_model_data": 5}, "model": "bells:item/bell/4" },
+        { "predicate": {"custom_model_data": 6}, "model": "bells:item/bell/5" },
+        { "predicate": {"custom_model_data": 7}, "model": "bells:item/bell/6" },
+        { "predicate": {"custom_model_data": 8}, "model": "bells:item/bell/7" },
+        { "predicate": {"custom_model_data": 9}, "model": "bells:item/bell/8" },
+        { "predicate": {"custom_model_data": 10}, "model": "bells:item/bell/9" },
+        { "predicate": {"custom_model_data": 11}, "model": "bells:item/bell/10" },
+        { "predicate": {"custom_model_data": 12}, "model": "bells:item/bell/11" },
+        { "predicate": {"custom_model_data": 13}, "model": "bells:item/bell/12" },
+        { "predicate": {"custom_model_data": 14}, "model": "bells:item/bell/13" },
+        { "predicate": {"custom_model_data": 15}, "model": "bells:item/bell/14" },
+        { "predicate": {"custom_model_data": 16}, "model": "bells:item/bell/15" },
+        { "predicate": {"custom_model_data": 17}, "model": "bells:item/bell/16" },
+        { "predicate": {"custom_model_data": 18}, "model": "bells:item/bell/17" },
+        { "predicate": {"custom_model_data": 19}, "model": "bells:item/bell/18" },
+        { "predicate": {"custom_model_data": 20}, "model": "bells:item/bell/19" },
+        { "predicate": {"custom_model_data": 21}, "model": "bells:item/bell/20" },
+        { "predicate": {"custom_model_data": 22}, "model": "bells:item/bell/21" },
+        { "predicate": {"custom_model_data": 23}, "model": "bells:item/bell/22" },
+        { "predicate": {"custom_model_data": 24}, "model": "bells:item/bell/23" },
+        { "predicate": {"custom_model_data": 25}, "model": "bells:item/bell/24" }
+    ]
+}

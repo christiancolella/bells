@@ -1,7 +1,7 @@
 {
   "textures": {
-    "0": "minecraft:block/warped_planks",
-    "particle": "minecraft:block/warped_planks"
+    "0": "minecraft:block/bell_side",
+    "particle": "minecraft:block/bell_side"
   },
   "elements": [
     {

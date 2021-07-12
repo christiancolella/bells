@@ -1,0 +1,15 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/warped_fungus_on_a_stick"
+    },
+    "overrides": [
+        { "predicate": {"custom_model_data": 0}, "model": "minecraft:item/warped_fungus_on_a_stick" },
+        { "predicate": {"custom_model_data": 201}, "model": "bells:item/back" },
+        { "predicate": {"custom_model_data": 202}, "model": "bells:item/next_page" },
+        { "predicate": {"custom_model_data": 203}, "model": "bells:item/previous_page" },
+        { "predicate": {"custom_model_data": 204}, "model": "bells:item/bells" },
+        { "predicate": {"custom_model_data": 205}, "model": "bells:item/pitch_up" },
+        { "predicate": {"custom_model_data": 206}, "model": "bells:item/pitch_down" }
+    ]
+}
